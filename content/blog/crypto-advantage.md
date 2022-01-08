@@ -9,6 +9,9 @@ draft = false
 [taxonomies]
 authors = ["Cosmic Skeptic"]
 +++
+TLDR:
+1. Crypto helps to bypass government regulation so that poor people from Argentina from tumbling fiat currency. Bypassing regulation has deep implications like website like wikileaks are able to receive funds. People have way less power to keep government in check.
+
 
 Whether you agree or not crypto is objectively bad. It is due to various reasons like:
 1. Environmental Concerns (BTC)
@@ -17,6 +20,8 @@ Whether you agree or not crypto is objectively bad. It is due to various reasons
 4. Too many cryptos with pump and dump strategy
 5. Proliferation of meme coins like dogecoin
 6. Too volatile. If Elon farts expect coin price to increase by 20%?
+7. Many crypto have been hacked so is our funds really secure?
+8. Many hackers, scammers etc. are infamous for using cryptos.
 
 The above reasons can intersect each other. Regarding point 1, many people argue another crypto-like Solana, dots, etc. which follow the proof of stake doesn't consume that much energy. You are correct but if we look at coin market cap proof of work coins dominate by a wide margin and other crypto follow it. Also, most of the time such coins are used to convert into BTC.  And regarding the proof of stake, it is always like Rich gets richer which I seriously don't like.
 
